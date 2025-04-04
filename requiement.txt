@@ -1,0 +1,10 @@
+next
+react
+react-dom
+react-leaflet
+leaflet
+leaflet-routing-machine
+react-spinners
+tailwindcss
+autoprefixer
+postcss
